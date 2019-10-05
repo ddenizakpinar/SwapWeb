@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "441951520355",
+    "firebase_url": "https://fir-69364.firebaseio.com",
+    "project_id": "fir-69364",
+    "storage_bucket": "fir-69364.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441951520355:android:c3aa5756a22ca364",
+        "android_client_info": {
+          "package_name": "com.example.swapweb_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441951520355-jekuof2faid6va8ls5qg3mq57l6b7l6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtNPHyQgYaPOI1ZcXJiB690oG-YfRagtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441951520355-jekuof2faid6va8ls5qg3mq57l6b7l6l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
