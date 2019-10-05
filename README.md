@@ -1,6 +1,7 @@
 # SwapWeb
 
-![gif](https://im.ezgif.com/tmp/ezgif-1-7212569523e2.gif)
+
+<img src="https://im.ezgif.com/tmp/ezgif-1-7212569523e2.gif" width="360" height="640"/> 
 
 
 a Social media and live chat 2 in 1 project developed in Flutter using Firebase.
@@ -27,6 +28,9 @@ a Social media and live chat 2 in 1 project developed in Flutter using Firebase.
 * Push notifications
 
 ## Images
+<img src="https://i.imgyukle.com/2019/10/06/Entivv.png" width="200" height="300"/> <img src="https://i.imgyukle.com/2019/10/06/EntOVN.png" width="200" height="300"/>  <img src="https://i.imgyukle.com/2019/10/06/EntjjP.png" width="200" height="300"/>  <img src="https://i.imgyukle.com/2019/10/06/EntXUq.png" width="200" height="300"/>  <img src="https://i.imgyukle.com/2019/10/06/EntLte.png" width="200" height="300"/> <img src="https://i.imgyukle.com/2019/10/06/EntHsR.png" width="200" height="300"/>  <img src="https://i.imgyukle.com/2019/10/06/EntcdY.png" width="200" height="300"/>  <img src="https://i.imgyukle.com/2019/10/06/EnthT0.png" width="200" height="300"/> 
+
+
 
 
 ## License
